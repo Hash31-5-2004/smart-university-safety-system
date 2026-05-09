@@ -1,0 +1,18 @@
+[
+  {
+    "time": "23:24:09",
+    "location": "Building A entrance",
+    "confidence": 0.82,
+    "caption": "police officers are seen at the scene of a shooting in the 600 block of west side avenue in detroit on monday, march 20, 2019",
+    "alert_text": "Alert: A potential security incident has been reported at the Building A entrance, with possible abnormal activity or an intruder, and immediate attention is required to ensure campus safety.\n\nRecommended action:\n\u2022 Move away from the area immediately if you are in the vicinity of Building A entrance to ensure your own safety.\n\u2022 Call Campus Security at extension 5555 or use the emergency button to report the incident, providing clear information about the location and description of the incident.\n\u2022 If safe to do so, attempt to verbally de-escalate the situation while waiting for security personnel to arrive, but do not attempt to physically intervene unless you are trained security personnel.",
+    "processing_mode": "Direct Pipeline"
+  },
+  {
+    "time": "23:27:11",
+    "location": "Building A entrance",
+    "confidence": 0.82,
+    "caption": "police officers are seen at the scene of a shooting in the 600 block of west side avenue in detroit on monday, march 20, 2019",
+    "alert_text": "Alert: A potential security incident has been reported at the Building A entrance, with possible abnormal activity or an intruder, and immediate attention is required to ensure campus safety.\n\nRecommended action:\n\u2022 Move away from the area immediately if you are in the vicinity of Building A entrance to ensure your own safety.\n\u2022 Call Campus Security at extension 5555 or use the emergency button to report the incident, providing clear information about the location and description of the incident.\n\u2022 If safe to do so, attempt to verbally de-escalate the situation while waiting for security personnel to arrive, but do not physically intervene unless you are trained security personnel.",
+    "processing_mode": "Direct Pipeline"
+  }
+]
